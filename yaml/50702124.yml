@@ -1,0 +1,29 @@
+---
+id: 50702124
+name: Synchro Magnet
+type: Tuner Monster
+frameType: effect
+desc: This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro
+  Monster, you can Special Summon this card from your hand.
+atk: 1000
+def: 600
+level: 3
+race: Machine
+attribute: EARTH
+card_sets:
+- set_name: The Shining Darkness
+  set_code: TSHD-EN011
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.13'
+card_images:
+- id: 50702124
+  image_url: https://images.ygoprodeck.com/images/cards/50702124.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/50702124.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/50702124.jpg
+card_prices:
+- cardmarket_price: '0.07'
+  tcgplayer_price: '0.22'
+  ebay_price: '0.99'
+  amazon_price: '0.20'
+  coolstuffinc_price: '0.49'
